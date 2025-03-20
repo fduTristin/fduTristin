@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Tristin🦉 
+### Hi, I'm Tristin🦉 
 
-- I'm an undergraduate student majoring in Computer Science at Fudan University
+- Undergraduate student majoring in Computer Science at Fudan University
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=fduTristin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
