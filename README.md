@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - Undergraduate student majoring in Computer Science at Fudan University
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=fduTristin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fduTristin&layout=compact)
