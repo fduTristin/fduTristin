@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Tristin🦉 
+### Hi, I'm Houze Xu
 
-- Undergraduate student majoring in Computer Science at Fudan University
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=fduTristin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- 🏫 I'm a junior student majoring in **Computer Science** at **Fudan University**.
+- 🔭 I'm currently working on **Continual Learning**.
+- 🛠️ I enjoy engaging in **open-source projects**.
+- 📫 Contact me by [houzexu22@m.fudan.edu.cn](houzexu22@m.fudan.edu.cn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fduTristin&layout=compact)
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=fduTristin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
