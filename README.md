@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Houze Xu
 
-- 🏫 I'm a junior student majoring in **Computer Science** at **Fudan University**.
+- 🏫 I'm a senior student majoring in **Computer Science** at **Fudan University**.
 - 🔭 I'm currently working on **Continual Learning**.
 - 🛠️ I enjoy engaging in **open-source projects**.
-- 📫 Contact me by [houzexu22@m.fudan.edu.cn](houzexu22@m.fudan.edu.cn)
+- 📫 Contact me by [houzexu22@m.fudan.edu.cn](mailto:houzexu22@m.fudan.edu.cn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fduTristin&layout=compact)
 
