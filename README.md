@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Houze Xu
 
-- 🏫 I'm a senior student majoring in **Computer Science** at **Fudan University**.
-- 🔭 I'm currently working on **Continual Learning**.
+- 🏫 I'm a senior student majoring in **Computer Science** at Fudan University.
+- 🤖 I'm currently working on **Embodied AI**.
 - 🛠️ I enjoy engaging in **open-source projects**.
 - 📫 Contact me by [houzexu22@m.fudan.edu.cn](mailto:houzexu22@m.fudan.edu.cn)
 
