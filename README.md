@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 🏫 I'm a senior student majoring in **Computer Science** at Fudan University.
 - 🤖 I'm currently working on **Embodied AI**.
-- 🛠️ I enjoy engaging in **open-source projects**.
 - 📫 Contact me by [houzexu22@m.fudan.edu.cn](mailto:houzexu22@m.fudan.edu.cn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fduTristin&layout=compact)
