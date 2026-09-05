@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Houze Xu
 
-- 🏫 I'm a senior student majoring in **Computer Science** at Fudan University.
+- 🏫 I'm a first-year PhD student in **Computer Science** at Fudan University.
 - 🤖 I'm currently working on **Embodied AI**.
-- 📫 Contact me by [houzexu22@m.fudan.edu.cn](mailto:houzexu22@m.fudan.edu.cn)
+- 📫 Contact me by [hzxu26@m.fudan.edu.cn](mailto:hzxu26@m.fudan.edu.cn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fduTristin&layout=compact)
 
