@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🤖 I'm currently working on **Embodied AI**.
 - 📫 Contact me by [hzxu26@m.fudan.edu.cn](mailto:hzxu26@m.fudan.edu.cn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fduTristin&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fduTristin&layout=compact)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=fduTristin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-stats-extended.vercel.app/api?username=fduTristin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
