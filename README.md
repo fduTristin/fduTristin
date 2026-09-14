@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Houze Xu
 
-- 🏫 I'm a first-year PhD student in **Computer Science** at Fudan University.
+- 🏫 I'm a first-year Ph.D. student in [FVL](https://fvl.fudan.edu.cn/), College of Computer Science, Fudan University, under the supervision of [Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Ziyi Ye](https://zxwu.azurewebsites.net/).
 - 🤖 I'm currently working on **Embodied AI**.
 - 📫 Contact me by [hzxu26@m.fudan.edu.cn](mailto:hzxu26@m.fudan.edu.cn)
